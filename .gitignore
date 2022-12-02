@@ -1,1 +1,6 @@
+/_build/
+/cover/
+/deps/
+.elixir_ls
 .fleet
+.vscode
