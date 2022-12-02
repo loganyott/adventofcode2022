@@ -1,0 +1,8 @@
+{
+    "name": "@loganyott/advent2022",
+    "type": "module",
+    "scripts": {
+        "debug": "node --inspect-brk",
+        "01": "node src/01.js"
+    }
+}
